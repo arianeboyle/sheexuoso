@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://loipohdui.charlottedann.com/sitemap.xml
